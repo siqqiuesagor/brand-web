@@ -12,7 +12,7 @@ h1 {
     color: rgb(235, 235, 21);
 }
 
-section {
+.flexible-con {
     display: flex;
     margin-bottom: 100px;
 }
