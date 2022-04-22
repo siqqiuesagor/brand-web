@@ -14,6 +14,7 @@ h1 {
 
 section {
     display: flex;
+    margin-bottom: 100px;
 }
 
 .half-w {
@@ -35,7 +36,19 @@ section {
 
 }
 
+.link-c {
+    text-decoration: none;
+    background-image: linear-gradient(green, pink);
+    padding: 10px 40px;
+    font-weight: 700;
+    color: black;
+}
+
 .top-1 {
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+}
+
+.gre-color {
+    color: green;
 }
