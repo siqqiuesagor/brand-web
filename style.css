@@ -1,0 +1,35 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    ;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.yel-color {
+    color: rgb(235, 235, 21);
+}
+
+section {
+    display: flex;
+}
+
+.half-w {
+    width: 50%;
+    padding-left: 2%;
+}
+
+.half-w img {
+    width: 80%;
+}
+
+.link-b {
+    text-decoration: none;
+    background-image: linear-gradient(yellow, orange);
+    padding: 10px 40px;
+    color: rgb(9, 37, 37);
+    font-weight: 700;
+
+
+}
